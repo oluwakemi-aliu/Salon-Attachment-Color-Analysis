@@ -1,2 +1,23 @@
 # Salon-Attachment-Color-Analysis
-I developed a comprehensive project in Excel, creating the dashboard in Powerbi. This process involved several stages like data collection, data cleaning, and data visualization.
+## Project Objective
+
+This project analyzes hair attachment usage in a salon to identify the most used attachment colors within a specific period (December 2025).
+The goal is to help salon owners make data-driven restocking decisions, reduce overstocking, and maximize profit by focusing on high-demand attachment colors.
+The analysis was performed in Excel, and an interactive dashboard was built in Power BI to visualize trends, usage patterns, and profitability.
+
+## Dataset Used
+<a href="">Dataset Used </a>
+
+##❓ Key Questions Answered
+- Which attachment color is used the most?
+- What percentage of total usage does the top color account for?
+- Which attachment colors generate the highest profit?
+- Which colors should be restocked more frequently?
+
+- Dashboard interaction <a href="">View Dashboard </a>
+
+## Process
+- Verify data for any missing values, duplicated values and anomalitied, and sort it out.
+- Made sure data is consistent and clan with respect to data type, data format and values used.
+- Took the data to Powerbi and created new measures according to questions asked
+- Merged it all together into a dashboard.
