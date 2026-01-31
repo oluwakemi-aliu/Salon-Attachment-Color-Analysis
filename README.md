@@ -6,7 +6,7 @@ The goal is to help salon owners make data-driven restocking decisions, reduce o
 The analysis was performed in Excel, and an interactive dashboard was built in Power BI to visualize trends, usage patterns, and profitability.
 
 ## Dataset Used
-<a href="">Dataset Used </a>
+<a href="https://github.com/oluwakemi-aliu/Salon-Attachment-Color-Analysis/blob/main/Salon_Attachment_Usage_Dec_2025.xlsx">Dataset Used </a>
 
 ## Key Questions Answered
 - Which attachment color is used the most?
